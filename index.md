@@ -3,7 +3,7 @@
 ## This is a static github page for Cloud Services course extra bundle E
 
 ### It is written with Markdown syntax :cowboy_hat_face: 
-### <sub> emojis only work in [github code page](https://github.com/NikoManni/NikoManni.github.io/blob/main/index.md) </sub>
+<sub> emojis only work in [github code page](https://github.com/NikoManni/NikoManni.github.io/blob/main/index.md) </sub>
 
 Markdown has many various stylings that are easy to use such as **bold** or _italic text._
 
