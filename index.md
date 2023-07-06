@@ -6,7 +6,7 @@
 
 Markdown has many various stylings that are easy to use such as **bold** or _italic text._
 
-You can also ~~strike through~~ unwanted texts or write: 
+You can also ~~strike through~~ unwanted texts or write
 > _beautiful quotes_
 
 <!-- :shushing_face: This is a secret line that won't be rendered on the page  :shushing_face: -->
@@ -22,5 +22,6 @@ Creating lists and check lists with Markdown is
       - Like this 
       - :smiley::+1:
 
-Here's a picture of a puppy
+Here's a picture of a puppy:
+
 ![Picture of a puppy](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*)
