@@ -2,7 +2,7 @@
 
 ## This is a static github page for Cloud Services course extra bundle E
 
-### It is written with markdown syntax :cowboy_hat_face:
+### It is written with Markdown syntax :cowboy_hat_face:
 
 Markdown has many various stylings that are easy to use such as **bold** or _italic text._
 
@@ -15,7 +15,9 @@ Creating lists and check lists with Markdown is
 - [ ] Hard
 - [x] Easy
 
+
 - Lists
   - Can also
     - Be nested
-      - Like this :smiley: :+1:
+      - Like this 
+      - :smiley::+1:
